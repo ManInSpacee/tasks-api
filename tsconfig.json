@@ -8,5 +8,6 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "types": ["node"]
-  }
+  },
+  "exclude": ["prisma.config.ts", "node_modules"]
 }
